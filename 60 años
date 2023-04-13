@@ -1,0 +1,30 @@
+1-<!DOCTYPE html> 
+2-<html> 
+3-<body> 
+4-  
+5- <h2>Tarea 2 - UPC</H2> 
+6-  
+7- <p>Bienvenido Pablo</p> 
+8-  
+9-<button onclick="myPrimerAlgoritmo()">boton en HTML</button> 
+10- 
+11- <script> 
+12- function myPrimerAlgoritmo() { 
+13-    var nombre = "Pablo" 
+14-    var edad = 19
+15-  
+16-    if (edad < 60) { 
+17- 
+18-        alert("Usted " + nombre + "es MENOR de 60 años de edad ") 
+19-  
+20-       }else{           
+21-  
+22-        alert("Usted " + nombre + "es MAYOR de 60 años de edad ") 
+23-       } 
+24-     } 
+25-  
+26-  </script> 
+27- 
+28-  </body> 
+29-  
+30-   </html>
