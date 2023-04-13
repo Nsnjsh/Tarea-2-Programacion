@@ -1,0 +1,29 @@
+Ver edad = 19;
+edad++;
+
+Var punto_flotantes = 12,5;
+
+
+/*
+ Operadores aritméticos
+ División = /
+ Multiplicacion = *
+ Suma = +
+ Resta = -
+ Modulo = %
+ */
+
+ var resultado_suma = edad + punto_f
+
+ Console.log(edad + punto_flotantes);
+
+ Console.log(es_par(3));
+
+
+
+ function es_par(numero)}
+   if(numero % 2 ==0)}
+     return true;
+   }
+   return false;
+   }
