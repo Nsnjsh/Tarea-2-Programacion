@@ -4,7 +4,7 @@
   
  <h2>Tarea 2.5 - UPC</H2> 
   
- <p>Bienvenido Christian</p> 
+ <p>Bienvenido Pablo</p> 
   
  <button onclick="myTercerAlgoritmo()">boton en HTML</button> 
   
@@ -47,7 +47,7 @@
   
   
  function myTercerAlgoritmo() { 
-    var nombre = "CHRISTIAN" 
+    var nombre = "Pablo" 
       
     if(ExisteA(nombre)) { 
         alert(nombre + "Existe la vocal (A)") 
